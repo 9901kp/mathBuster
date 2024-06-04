@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BF2C2B4C2BD99FF800C29692 /* A.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF2C2B442BD99FF800C29692 /* A.wav */; };
+		BF2C2B4D2BD99FF800C29692 /* B.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF2C2B452BD99FF800C29692 /* B.wav */; };
+		BF2C2B4E2BD99FF800C29692 /* C.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF2C2B462BD99FF800C29692 /* C.wav */; };
+		BF2C2B4F2BD99FF800C29692 /* D.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF2C2B472BD99FF800C29692 /* D.wav */; };
+		BF2C2B502BD99FF800C29692 /* E.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF2C2B482BD99FF800C29692 /* E.wav */; };
+		BF2C2B512BD99FF800C29692 /* F.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF2C2B492BD99FF800C29692 /* F.wav */; };
+		BF2C2B522BD99FF800C29692 /* G.wav in Resources */ = {isa = PBXBuildFile; fileRef = BF2C2B4A2BD99FF800C29692 /* G.wav */; };
+		BF8977D62BD99CFC00376C6A /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF8977D52BD99CFC00376C6A /* DetailViewController.swift */; };
+		BF97DAC82BEF6F1400511755 /* ScoreTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF97DAC62BEF6F1400511755 /* ScoreTableViewCell.swift */; };
+		BF97DAC92BEF6F1400511755 /* ScoreTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = BF97DAC72BEF6F1400511755 /* ScoreTableViewCell.xib */; };
+		BF97DACC2BEFF8FA00511755 /* ScoreDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF97DACA2BEFF8FA00511755 /* ScoreDetailViewController.swift */; };
+		BF97DACD2BEFF8FA00511755 /* ScoreDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BF97DACB2BEFF8FA00511755 /* ScoreDetailViewController.xib */; };
 		BFC004992BD0676F00E9D333 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC004982BD0676F00E9D333 /* AppDelegate.swift */; };
 		BFC0049B2BD0676F00E9D333 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC0049A2BD0676F00E9D333 /* SceneDelegate.swift */; };
 		BFC0049D2BD0676F00E9D333 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC0049C2BD0676F00E9D333 /* ViewController.swift */; };
@@ -36,6 +48,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BF2C2B442BD99FF800C29692 /* A.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A.wav; sourceTree = "<group>"; };
+		BF2C2B452BD99FF800C29692 /* B.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = B.wav; sourceTree = "<group>"; };
+		BF2C2B462BD99FF800C29692 /* C.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = C.wav; sourceTree = "<group>"; };
+		BF2C2B472BD99FF800C29692 /* D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = D.wav; sourceTree = "<group>"; };
+		BF2C2B482BD99FF800C29692 /* E.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = E.wav; sourceTree = "<group>"; };
+		BF2C2B492BD99FF800C29692 /* F.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = F.wav; sourceTree = "<group>"; };
+		BF2C2B4A2BD99FF800C29692 /* G.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = G.wav; sourceTree = "<group>"; };
+		BF8977D52BD99CFC00376C6A /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		BF97DAC62BEF6F1400511755 /* ScoreTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreTableViewCell.swift; sourceTree = "<group>"; };
+		BF97DAC72BEF6F1400511755 /* ScoreTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ScoreTableViewCell.xib; sourceTree = "<group>"; };
+		BF97DACA2BEFF8FA00511755 /* ScoreDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreDetailViewController.swift; sourceTree = "<group>"; };
+		BF97DACB2BEFF8FA00511755 /* ScoreDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ScoreDetailViewController.xib; sourceTree = "<group>"; };
 		BFC004952BD0676F00E9D333 /* Math Buster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Math Buster.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFC004982BD0676F00E9D333 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BFC0049A2BD0676F00E9D333 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -76,6 +100,29 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BF2C2B4B2BD99FF800C29692 /* sounds */ = {
+			isa = PBXGroup;
+			children = (
+				BF2C2B442BD99FF800C29692 /* A.wav */,
+				BF2C2B452BD99FF800C29692 /* B.wav */,
+				BF2C2B462BD99FF800C29692 /* C.wav */,
+				BF2C2B472BD99FF800C29692 /* D.wav */,
+				BF2C2B482BD99FF800C29692 /* E.wav */,
+				BF2C2B492BD99FF800C29692 /* F.wav */,
+				BF2C2B4A2BD99FF800C29692 /* G.wav */,
+			);
+			path = sounds;
+			sourceTree = "<group>";
+		};
+		BF97DAC52BEF6EF900511755 /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				BF97DAC62BEF6F1400511755 /* ScoreTableViewCell.swift */,
+				BF97DAC72BEF6F1400511755 /* ScoreTableViewCell.xib */,
+			);
+			path = Cell;
+			sourceTree = "<group>";
+		};
 		BFC0048C2BD0676F00E9D333 = {
 			isa = PBXGroup;
 			children = (
@@ -99,13 +146,9 @@
 		BFC004972BD0676F00E9D333 /* Math Buster */ = {
 			isa = PBXGroup;
 			children = (
-				BFC004982BD0676F00E9D333 /* AppDelegate.swift */,
-				BFC0049A2BD0676F00E9D333 /* SceneDelegate.swift */,
-				BFC0049C2BD0676F00E9D333 /* ViewController.swift */,
-				BFC0049E2BD0676F00E9D333 /* Main.storyboard */,
-				BFC004A12BD0677000E9D333 /* Assets.xcassets */,
-				BFC004A32BD0677000E9D333 /* LaunchScreen.storyboard */,
-				BFC004A62BD0677000E9D333 /* Info.plist */,
+				BFC004C82BD0678600E9D333 /* App */,
+				BFC004C92BD0679C00E9D333 /* Controller */,
+				BFC004CA2BD067BB00E9D333 /* Resource */,
 			);
 			path = "Math Buster";
 			sourceTree = "<group>";
@@ -125,6 +168,39 @@
 				BFC004BB2BD0677100E9D333 /* Math_BusterUITestsLaunchTests.swift */,
 			);
 			path = "Math BusterUITests";
+			sourceTree = "<group>";
+		};
+		BFC004C82BD0678600E9D333 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				BFC004982BD0676F00E9D333 /* AppDelegate.swift */,
+				BFC0049A2BD0676F00E9D333 /* SceneDelegate.swift */,
+				BFC004A32BD0677000E9D333 /* LaunchScreen.storyboard */,
+				BFC004A62BD0677000E9D333 /* Info.plist */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		BFC004C92BD0679C00E9D333 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				BF97DAC52BEF6EF900511755 /* Cell */,
+				BFC0049E2BD0676F00E9D333 /* Main.storyboard */,
+				BFC0049C2BD0676F00E9D333 /* ViewController.swift */,
+				BF8977D52BD99CFC00376C6A /* DetailViewController.swift */,
+				BF97DACA2BEFF8FA00511755 /* ScoreDetailViewController.swift */,
+				BF97DACB2BEFF8FA00511755 /* ScoreDetailViewController.xib */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		BFC004CA2BD067BB00E9D333 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				BF2C2B4B2BD99FF800C29692 /* sounds */,
+				BFC004A12BD0677000E9D333 /* Assets.xcassets */,
+			);
+			path = Resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,9 +307,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BF2C2B4E2BD99FF800C29692 /* C.wav in Resources */,
 				BFC004A22BD0677000E9D333 /* Assets.xcassets in Resources */,
+				BF2C2B4F2BD99FF800C29692 /* D.wav in Resources */,
+				BF2C2B512BD99FF800C29692 /* F.wav in Resources */,
+				BF2C2B4D2BD99FF800C29692 /* B.wav in Resources */,
 				BFC004A52BD0677000E9D333 /* Base in Resources */,
+				BF2C2B522BD99FF800C29692 /* G.wav in Resources */,
+				BF2C2B4C2BD99FF800C29692 /* A.wav in Resources */,
+				BF97DACD2BEFF8FA00511755 /* ScoreDetailViewController.xib in Resources */,
+				BF2C2B502BD99FF800C29692 /* E.wav in Resources */,
 				BFC004A02BD0676F00E9D333 /* Base in Resources */,
+				BF97DAC92BEF6F1400511755 /* ScoreTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,9 +343,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BF97DACC2BEFF8FA00511755 /* ScoreDetailViewController.swift in Sources */,
+				BF97DAC82BEF6F1400511755 /* ScoreTableViewCell.swift in Sources */,
 				BFC0049D2BD0676F00E9D333 /* ViewController.swift in Sources */,
 				BFC004992BD0676F00E9D333 /* AppDelegate.swift in Sources */,
 				BFC0049B2BD0676F00E9D333 /* SceneDelegate.swift in Sources */,
+				BF8977D62BD99CFC00376C6A /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -444,12 +532,13 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = ACFFYDDU5A;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Math Buster/Info.plist";
+				INFOPLIST_FILE = "Math Buster/App/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -472,12 +561,13 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = ACFFYDDU5A;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Math Buster/Info.plist";
+				INFOPLIST_FILE = "Math Buster/App/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
